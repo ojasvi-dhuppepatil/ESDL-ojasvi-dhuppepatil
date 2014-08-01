@@ -6,5 +6,8 @@ cout<<"welcome!!!!";
 double square(double innum)
 {
  double outnum;
- return 0;
+
+}
+{
+cout<<"hello ashvini";
 }
