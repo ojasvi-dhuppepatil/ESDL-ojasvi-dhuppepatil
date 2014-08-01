@@ -2,5 +2,9 @@
  main()
 {
 cout<<"welcome!!!!";
-return 0;
+}
+double square(double innum)
+{
+ double outnum;
+ return 0;
 }
